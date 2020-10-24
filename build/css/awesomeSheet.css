@@ -25,11 +25,11 @@
   overflow: auto; }
 
 .is-display-mode ::-moz-selection {
-  background-color: #ff648c;
+  background-color: #000a40;
   color: #ffffff; }
 
 .is-display-mode ::selection {
-  background-color: #ff648c;
+  background-color: #000a40;
   color: #ffffff; }
 
 html {
